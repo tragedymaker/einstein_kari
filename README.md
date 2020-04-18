@@ -16,7 +16,8 @@
 2.若已無合法步（5死1終點）則可選擇pass，若有則強迫必須走
 
 ## Compile
-make
+make in baseline folder and game folder respectively
+get game,greedy,conservative,random,r07522316 
 
 ## Start to play
 ### AI v.s. myAI
