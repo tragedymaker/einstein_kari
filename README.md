@@ -24,3 +24,6 @@ get game,greedy,conservative,random,r07522316
 ./game -p0 ./[agentname] -p1 ./r07522316
 ### Human v.s. myAI
 ./game -p0 ./r07522316
+
+以下影片為與greedy AI對戰情況，設定思考時間為10秒，影片為8倍速  
+![image](https://github.com/tragedymaker/einstein_kari/blob/master/einstein_kari.gif)
